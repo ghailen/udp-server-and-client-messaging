@@ -1,0 +1,9 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µ¯Ğàıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.( éúŸûÿÿÿÿ
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(âÈº×ûÿÿÿÿ8ã½½ÈÃ/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ûÚ’Åúÿÿÿÿ8ë’ÂÈÃ/
+[
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ8¶ÍÂÈÃ/
+g
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ì¹ëÿÿÿÿÿ
